@@ -1,3 +1,7 @@
-body {
+.page {
     font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.header, .footer {
+    background-color: aquamarine;
 }
